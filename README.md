@@ -12,7 +12,7 @@
 
 - Clone the repo by using the following to create a copy on your local machine:
 
-  - git clone 
+  - git clone https://github.com/pama7786/week1-challenge.git
   
 - Change directory to the repo folder:
 
